@@ -92,31 +92,31 @@ class AddRentForBanks implements XYZBank {
 
   @override
   void ABC() {
-    print("Paying ${intrest} of Rent by the Bank ABC");
+    print("Paid ${intrest} of Rent by the Bank ABC");
   }
 
   @override
   void BCA() {
-    print("Paying ${intrest} of Rent by the Bank BCA");
+    print("Paid ${intrest} of Rent by the Bank BCA");
   }
 
   @override
   void CAB() {
-    print("Paying ${intrest} of Rent by the Bank CAB");
+    print("Paid ${intrest} of Rent by the Bank CAB");
   }
 
   @override
   void CDF() {
-    print("Paying ${intrest} of Rent by the Bank CDF");
+    print("Paid ${intrest} of Rent by the Bank CDF");
   }
 
   @override
   void DFC() {
-    print("Paying ${intrest} of Rent by the Bank DFC");
+    print("Paid ${intrest} of Rent by the Bank DFC");
   }
 
   @override
   void FCD() {
-    print("Paying ${intrest} of Rent by the Bank FCD");
+    print("Paid ${intrest} of Rent by the Bank FCD");
   }
 }
